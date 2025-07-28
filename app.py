@@ -86,4 +86,5 @@ else:
         st.success(MESSAGE)
         st.markdown(f"### {ROMANTIC_QUESTION}")
 
-        st.image("https://riizeofficial.jp/profile/ANTON/profile.jpg", caption="With love Rabin 💖", use_container_width=True)
+        st.image("https://static.wikia.nocookie.net/riize/images/AntonsPhoto.jpg", caption="With love, Rabin 💖", use_container_width=True)
+
