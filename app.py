@@ -27,14 +27,13 @@ I hope we’ll make it through this year and the next — congrats again, Sayang
 
 ---
 
-And I’d like to add that I like you, sayang. It’s been proven time and time again — I really like you just as you are.
-
-You’re the light in my darkest days.
-You make me feel alive.
-And you like me... as *I* am, too.
-
-— From Rabin 💌
-"""
+ And I'd like to add that I like you, Sayang.
+It's proven time and time again that I really like you—just as you are.
+You're the light in my dark days.
+You make me feel alive… and you liked me as I am.
+And I don't want to waste time looking for other people when I finally found you.
+It's already been a month like you said and I think it's enough time to know for myself that I really just like you, 
+you cutie pie. And so with that, I wanted to ask…
 
 ROMANTIC_QUESTION = "💍 Do you want to take this relationship to the next level? If you're not ready, I can wait too... 💗"
 
@@ -80,4 +79,4 @@ else:
         st.success(MESSAGE)
         st.markdown(f"### {ROMANTIC_QUESTION}")
 
-        st.image("https://i.imgur.com/lyLUUkk.jpg", caption="Anton from RIIZE 💖", use_container_width=True)
+        st.image("https://i.imgur.com/lyLUUkk.jpg", caption="With love Rabin 💖", use_container_width=True)
