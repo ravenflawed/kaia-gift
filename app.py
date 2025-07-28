@@ -33,7 +33,8 @@ You're the light in my dark days.
 You make me feel alive… and you liked me as I am.
 And I don't want to waste time looking for other people when I finally found you.
 It's already been a month like you said and I think it's enough time to know for myself that I really just like you, 
-you cutie pie. And so with that, I wanted to ask… """
+you cutie pie. And so with that, I wanted to ask… 
+"""
 
 ROMANTIC_QUESTION = "💍 Do you want to take this relationship to the next level? If you're not ready, I can wait too... 💗"
 
