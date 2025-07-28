@@ -7,36 +7,42 @@ VALID_PASSWORD = "06282025"
 FLOWER_EMOJI = "🌷🌸💐"
 GIFT_EMOJI = "🎁"
 MESSAGE = """
-Congratulations on your graduation, Princess Luna 🌙!
+Congratulations on your graduation, Princess Luna.
+You’ve grown so much, and I’m incredibly proud of you. You’re officially a big girl now—ready to earn your own money, explore new experiences, and continue discovering who you are.
 
-You are now finally a big girl. You will earn lots of money, experience different things, and learn more about yourself.
+You’re entering a new era of your life—and I hope I get to walk beside you through all of it.
+Whether you’re growing, hurting, healing, or glowing, I want to be here. Behind you. Supporting you. (And maybe... you know... behind you in other ways too 😏—just kidding. Kind of.)
 
-Don’t worry— as long as I can, I will be with you every step of the way. Behind you, supporting you (and maybe jokingly, fucking you 😏—just kidding—kind of). I mean it when I say I hope I can help you grow... and vice versa, you help me too.
+I genuinely want to help you grow, and I hope you’ll help me grow too.
+Let’s spend this next chapter together—becoming the best versions of ourselves, not just side-by-side, but intertwined.
 
-We’ll spend another era with you being the best version of yourself.
+There will be sad days, but we’ll talk through them.
+There will be fun days, and we’ll make the most of them together.
 
-Don’t worry about sad times — we’ll talk through them.
-Don’t worry about the fun times — we’ll make them together.
+If you ever grow more—promise not to leave me behind.
+And when I do, I won’t leave you behind either.
 
-When you grow more, promise not to leave me out.
-And when I do, I won’t leave you out either.
+I don’t believe in “growing apart.” I believe in growing individually and together.
+So let’s try to do that. Every day. Just us.
 
-I don’t like the words ‘growing apart.’ Let’s grow individually and together.
+And before I end this, I just want to say it out loud—I really, really like you, Sayang.
+It’s been proven time and time again, hasn’t it?
 
-I hope we’ll make it through this year and the next — congrats again, Sayang! 🎓💕
+You’re the light in my darkest days.
+You make me feel alive.
+And you liked me as I am—when I didn’t expect anyone to.
 
----
+I don’t want to waste time chasing anyone else.
+I’ve found you. And to me, that’s more than enough.
 
- And I'd like to add that I like you, Sayang.
-It's proven time and time again that I really like you—just as you are.
-You're the light in my dark days.
-You make me feel alive… and you liked me as I am.
-And I don't want to waste time looking for other people when I finally found you.
-It's already been a month like you said and I think it's enough time to know for myself that I really just like you, 
-you cutie pie. And so with that, I wanted to ask… 
+It’s already been a month like you said—and I think that’s more than enough time for me to know this feeling is real.
+
+You, baby girl, are someone I genuinely want. 💗
+
+So…
 """
 
-ROMANTIC_QUESTION = "💍 Do you want to take this relationship to the next level? If you're not ready, I can wait too... 💗"
+ROMANTIC_QUESTION = "💍 Do you want to take this relationship to the next level? If you're not ready, I can wait too... 💗 You are worth the wait."
 
 st.set_page_config(page_title="Princess Luna's Graduation Gift 🎓", page_icon=GIFT_EMOJI, layout="centered")
 
@@ -80,4 +86,4 @@ else:
         st.success(MESSAGE)
         st.markdown(f"### {ROMANTIC_QUESTION}")
 
-        st.image("https://i.imgur.com/lyLUUkk.jpg", caption="With love Rabin 💖", use_container_width=True)
+        st.image("https://riizeofficial.jp/profile/ANTON/profile.jpg", caption="With love Rabin 💖", use_container_width=True)
